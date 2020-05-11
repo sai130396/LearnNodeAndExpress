@@ -4,6 +4,7 @@ const app = express();
 
 const port = "3000";
 console.log("hello there");
+console.log("hello there");
 app.use(express.static(path.join(__dirname, './provided/static')));
 
 
