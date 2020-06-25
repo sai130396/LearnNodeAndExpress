@@ -25,7 +25,9 @@ class SpeakerService {
     const data = await this.getData();
 
     // We are using map() to transform the array we get into another one
+
     return data.map(speaker => {
+       // throw new Error("async error handling is not this way");
       return { name: speaker.name, shortname: speaker.shortname };
     });
   }

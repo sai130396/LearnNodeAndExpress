@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b726eb2d-e452-45d7-9c61-357abdcbd5cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/feedback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/speaker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Hillary_Goldwynn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_01_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_02_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_03_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_04_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_05_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_06_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Hillary_Goldwynn_07_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_01_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_02_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_03_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_04_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_01_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_02_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_03_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_04_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_05_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/artwork/Riley_Rewington_06_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/misc/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/speakers/Hillary_Goldwynn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/speakers/Hillary_Goldwynn_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/speakers/Lorenzo_Garcia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/speakers/Lorenzo_Garcia_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/speakers/Riley_Rewington.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/speakers/Riley_Rewington_tn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/feedback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/pixgrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/speakers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/error.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/layout/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/layout/partials/navigation.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/layout/partials/scripts.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/pages/feedback.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/pages/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/pages/partials/artwork.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/pages/partials/topSpeakers.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/pages/speaker-details.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/pages/speakers.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/data/feedback.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/feedback.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/data/speakers.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/speakers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/services/FeedbackService.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/FeedbackService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/services/SpeakerService.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/SpeakerService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/Hillary_Goldwynn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/feedback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_01_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_02_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_03_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_04_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_05_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_06_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Hillary_Goldwynn_07_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Lorenzo_Garcia_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Lorenzo_Garcia_01_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Lorenzo_Garcia_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Lorenzo_Garcia_02_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Lorenzo_Garcia_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Lorenzo_Garcia_03_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Lorenzo_Garcia_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Lorenzo_Garcia_04_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_01_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_02_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_03_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_04_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_05_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/artwork/Riley_Rewington_06_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/misc/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/speakers/Hillary_Goldwynn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/speakers/Hillary_Goldwynn_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/speakers/Lorenzo_Garcia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/speakers/Lorenzo_Garcia_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/speakers/Riley_Rewington.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/images/speakers/Riley_Rewington_tn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/js/feedback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/js/pixgrid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provided/static/speakers.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/feedback.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/services/FeedbackService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/speaker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/feedback.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-200">
+              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/provided/static</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.eslintrc.json" />
+        <option value="$PROJECT_DIR$/.prettierrc" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/static/index.html" />
+        <option value="$PROJECT_DIR$/views/partials/navigation.ejs" />
+        <option value="$PROJECT_DIR$/views/pages/partials/topSpeakers.ejs" />
+        <option value="$PROJECT_DIR$/views/layout/partials/navigation.ejs" />
+        <option value="$PROJECT_DIR$/data/speakers.json" />
+        <option value="$PROJECT_DIR$/views/pages/speakers.ejs" />
+        <option value="$PROJECT_DIR$/views/pages/speaker-details.ejs" />
+        <option value="$PROJECT_DIR$/views/pages/partials/artwork.ejs" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/routes/speaker.js" />
+        <option value="$PROJECT_DIR$/services/SpeakerService.js" />
+        <option value="$PROJECT_DIR$/views/error.ejs" />
+        <option value="$PROJECT_DIR$/static/css/error.css" />
+        <option value="$PROJECT_DIR$/views/pages/index.ejs" />
+        <option value="$PROJECT_DIR$/views/layout/index.ejs" />
+        <option value="$PROJECT_DIR$/views/pages/feedback.ejs" />
+        <option value="$PROJECT_DIR$/routes/feedback.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/data/feedback.json" />
+        <option value="$PROJECT_DIR$/views/layout/partials/scripts.ejs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="19" />
+    <option name="y" value="19" />
+    <option name="width" value="1400" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SecondTry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondTry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondTry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondTry" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondTry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondTry" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondTry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondTry" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondTry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondTry" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondTry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondTry" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondTry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondTry" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondTry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondTry" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SecondTry" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SecondTry" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/pages" />
+      <recent name="$PROJECT_DIR$/views/layout" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/statics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/pages" />
+      <recent name="$PROJECT_DIR$/views/layout" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SecondTry/views/pages/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b726eb2d-e452-45d7-9c61-357abdcbd5cd" name="Default Changelist" comment="" />
+      <created>1591033492930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591033492930</updated>
+      <workItem from="1591033494132" duration="456000" />
+      <workItem from="1591549283149" duration="3275000" />
+      <workItem from="1591609173750" duration="1822000" />
+      <workItem from="1591612266455" duration="1500000" />
+      <workItem from="1591614827458" duration="795000" />
+      <workItem from="1591618964597" duration="1143000" />
+      <workItem from="1591791568050" duration="2740000" />
+      <workItem from="1591862929199" duration="1694000" />
+      <workItem from="1591943533762" duration="11098000" />
+      <workItem from="1592040387151" duration="1143000" />
+      <workItem from="1592060271310" duration="4593000" />
+      <workItem from="1592213279744" duration="1593000" />
+      <workItem from="1592215806844" duration="2380000" />
+      <workItem from="1592219600186" duration="4111000" />
+      <workItem from="1592225338977" duration="1076000" />
+      <workItem from="1592226598839" duration="2497000" />
+      <workItem from="1592289791658" duration="1978000" />
+      <workItem from="1592411307632" duration="139000" />
+      <workItem from="1592501836955" duration="1450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45483000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="19" y="19" width="1400" height="860" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.eslintrc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.html" />
+    <entry file="file://$PROJECT_DIR$/static/Hillary_Goldwynn.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/misc/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/artwork/Riley_Rewington_01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/artwork/Riley_Rewington_02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/artwork/Lorenzo_Garcia_01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/feedback.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/pixgrid.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout/partials/navigation.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="91" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/speaker-details.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/partials/topSpeakers.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/partials/artwork.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/error.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/feedback.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="117" selection-start-line="3" selection-start-column="117" selection-end-line="3" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/SpeakerService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-757">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout/partials/scripts.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/speakers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/speakers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/speakers.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/speaker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/feedback.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/feedback.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/FeedbackService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
